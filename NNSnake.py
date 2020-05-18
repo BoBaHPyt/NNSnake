@@ -1,5 +1,3 @@
-from game import Snake, Game
-
 from numpy import dot, array, where
 from numpy.random import uniform as np_uniform
 from random import randint, uniform
